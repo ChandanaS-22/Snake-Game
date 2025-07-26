@@ -1,2 +1,2 @@
 # Projects
-Snake Game in Java
+This is a basic snake game created in java.
